@@ -1,0 +1,19 @@
+.full-form {
+  background-image: url(../bacraunimg.avif);
+  background-size: cover;
+  object-fit: cover;
+}
+
+form {
+  width: 500px;
+  padding: 90px 50px;
+  background: rgba(24, 20, 20, 0.987);
+  box-sizing: border-box;
+  box-shadow: 0 15px 25px rgba(0, 0, 0, .6);
+  border-radius: 10px;
+}
+
+.user-box label {
+  color: #fff;
+  padding-bottom: 10px;
+}
